@@ -1,6 +1,6 @@
 # Policies for the use of the Induction Zone digital infrastructure
 
-The current version of this policy can be found at https://github.com/enviconnect/public-inductionzone-policies.
+The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
 
 ## Operators
 The Induction Zone is operated by:
@@ -11,7 +11,7 @@ Nobelstrasse 15<br>
 70569 Stuttgart<br>
 Germany
 
-(henceforth refered to as "we", "us", "our", "the operators", or "Induction Zone")
+(henceforth refered to as "we", "us", "our", "the operators", or "Induction Zone").
 
 Contact us at induction.zone@enviconnect.de.
 
@@ -19,7 +19,7 @@ Contact us at induction.zone@enviconnect.de.
 This policy applies to people using our digital infrastructure, including:
 
 - slack channel (inductionzone.slack.com)
-- messaging or contact by email, through LinkedIn, or other third-party messaging services
+- messaging or contact by email, through LinkedIn, or other third-party messaging services.
 
 ## How we use your data
 
@@ -41,8 +41,8 @@ We will not share your data with anyone else.
 ## Your intellectual property
 Unless otherwise agreed, you retain full ownership of your intellectual property during participation in the Induction Zone. You take full responsibility for your intellectual property and agree to protect it at all times. Although we take steps to manage participation in the Induction Zone events it should be considered a public space, and you are encouraged to treat it accordingly.
 
-## Diversity, equality and inclusion (DEI)
-To the extent allowed by law, we strive to include anyone and everyone regardless of gender, sexual preference, age, national origin, educational background or other differentiating characteristic.
+## Diversity, equality, and inclusion (DEI)
+To the extent allowed by law, we strive to include anyone and everyone regardless of gender, sexual preference, age, national origin, educational background, or other differentiating characteristic.
 
 Please note that only persons aged 18 or over will be given access to the induction zone.
 
@@ -54,13 +54,13 @@ If we observe discrimination or have discrimination reported to us, we will take
 
 - verbal or written warnings
 - temporary or permanent removal of access to the infrastructure
-- referal to applicable law enforcement
+- referal to applicable law enforcement.
 
 ### If you feel you have been discriminated against by us
 Please contact us immediately explaining what has occurred, and we will take steps to prevent this from happening again. This does not affect your rights to a legal process.
 
 ## Updates
-This policy is subject to revision without notice. The current version of this policy can be found at https://github.com/enviconnect/public-inductionzone-policies.
+This policy is subject to revision without notice. The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
 
 ## Feedback
 We value your feedback. Please contact induction.zone@enviconnect.de with any feedback you want to share.
