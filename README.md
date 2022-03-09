@@ -57,7 +57,10 @@ If we observe discrimination or have discrimination reported to us, we will take
 - referal to applicable law enforcement
 
 ### If you feel you have been discriminated against by us
-Please contact us imemdiately explaining what has occurred, and we will take steps to prevent this from happening again. This does not affect your rights to a legal process.
+Please contact us immediately explaining what has occurred, and we will take steps to prevent this from happening again. This does not affect your rights to a legal process.
 
 ## Updates
 This policy is subject to revision without notice. The current version of this policy can be found at https://github.com/enviconnect/public-inductionzone-policies.
+
+## Feedback
+We value your feedback. Please contact induction.zone@enviconnect.de with any feedback you want to share.
