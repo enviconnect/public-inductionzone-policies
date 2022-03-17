@@ -19,32 +19,35 @@ Contact us at induction.zone@enviconnect.de.
 This policy applies to people using our digital infrastructure, including:
 
 - slack channel (inductionzone.slack.com)
+- online file storage
 - messaging or contact by email, through LinkedIn, or other third-party messaging services.
 
 ## Scope of the Induction Zone
 The Induction Zone supports individuals, startups, and established companies to find, develop, and deploy technologies to support the generation of electricity from renewable energy sources, particularly wind energy.
 
 ## Code of Conduct
-The Induction Zone is intended to be a place for people to exchange news, views, ideas, and experience and appear authentically (i.e., speak in a way that is aligned with their own beliefs and experience and not need to present a facade). We encourage all users of our infrastructure to respect this and support each other.
+The Induction Zone is a place for people to exchange news, views, ideas, and experience and appear authentically (i.e., speak in a way that is aligned with their own beliefs and experience and not need to present a facade). We encourage all users of our infrastructure to respect this and support each other. 
 
-We will not tolerate discrimination, hate speech, or other behaviour that goes against this
+This does not mean that differences of opinion, or debate, are not allowed. Instead, we encourage respectful, constructive discussion and recognition that others' opinions are also valid.
+
+Demeaning or derogatory language, harrasment, hate speech, or discrimination will not be tolerated.
 
 ## Diversity, equality, and inclusion (DEI)
 To the extent allowed by law, we strive to include anyone and everyone regardless of gender, sexual preference, age, national origin, educational background, or other differentiating characteristic.
 
 Please note that only persons aged 18 or over will be given access to the induction zone.
 
-### Reporting discrimination
-We encourage anyone who feels that they have been discriminated against during an Induction Zone event, or during their use of induction zone infrastructure, or during any other activity related to the Induction Zone, to contact induction.zone@enviconnect.de with a detailed description of what happened.
+## Reporting activities that go against the code of conduct
+We encourage anyone who feels that they have experienced behaviour that goes against this code of conduct during an Induction Zone event, or during their use of induction zone infrastructure, or during any other activity related to the Induction Zone, to contact induction.zone@enviconnect.de with a detailed description of what happened.
 
-### How we will deal with discrimination
-If we observe discrimination or have discrimination reported to us, we will take steps to stop that discrimination. This may include, but is not limited to:
+### How we will deal with activities that go against the code of conduct
+If we observe activities that go against this code of conduct, or have such reported to us, we will take steps to stop them. These steps may include, but is not limited to:
 
 - verbal or written warnings
 - temporary or permanent removal of access to the infrastructure
 - referal to applicable law enforcement.
 
-### If you feel you have been discriminated against by us
+### If you feel you that _we_ have gone against this code of conduct
 Please contact us immediately explaining what has occurred, and we will take steps to prevent this from happening again. This does not affect your rights to a legal process.
 
 ## Your intellectual property
