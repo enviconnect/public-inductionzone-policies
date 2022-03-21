@@ -12,4 +12,4 @@ jobs:
             --standalone
             -V geometry:papersize=a4
             --output=policies.pdf
-            readme.md
+            README.md
