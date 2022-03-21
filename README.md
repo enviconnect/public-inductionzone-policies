@@ -33,12 +33,14 @@ This does not mean that differences of opinion, or debate, are not allowed. Inst
 Demeaning or derogatory language, harrasment, hate speech, or discrimination will not be tolerated.
 
 ## Diversity, equality, and inclusion (DEI)
-To the extent allowed by law, we strive to include anyone and everyone regardless of gender, sexual preference, age, national origin, educational background, or other differentiating characteristic.
+To the extent allowed by law, we strive to include anyone and everyone in the Induction Zone regardless of gender, sexual preference, age, national origin, educational background, or other differentiating characteristic. 
+
+All users of the Induction Zone infrastructure are requested to follow the same principles of diversity, equality, and inclusion when using the Induction Zone infrastructure.
 
 Please note that only persons aged 18 or over will be given access to the induction zone.
 
 ## Reporting activities that go against the code of conduct
-We encourage anyone who feels that they have experienced behaviour that goes against this code of conduct during an Induction Zone event, or during their use of induction zone infrastructure, or during any other activity related to the Induction Zone, to contact induction.zone@enviconnect.de with a detailed description of what happened.
+We encourage anyone who feels that they have experienced behaviour that goes against this code of conduct during an Induction Zone event, or during their use of induction zone infrastructure, during any other activity related to the Induction Zone, or by any other Induction Zone user under any circumstances, to contact induction.zone@enviconnect.de with a detailed description of what happened.
 
 ### How we will deal with activities that go against the code of conduct
 If we observe activities that go against this code of conduct, or have such reported to us, we will take steps to stop them. These steps may include, but is not limited to:
