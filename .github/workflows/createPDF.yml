@@ -1,4 +1,4 @@
-name: Long Usage
+name: Create PDF
 
 on: push
 
@@ -10,6 +10,6 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
-            --papersize==a4
+            --geometry=a4
             --output=readme.md
             policies.pdf
