@@ -33,12 +33,14 @@ This does not mean that differences of opinion, or debate, are not allowed. Inst
 Demeaning or derogatory language, harrasment, hate speech, or discrimination will not be tolerated.
 
 ## Diversity, equality, and inclusion (DEI)
-To the extent allowed by law, we strive to include anyone and everyone regardless of gender, sexual preference, age, national origin, educational background, or other differentiating characteristic.
+To the extent allowed by law, we strive to include anyone and everyone in the Induction Zone regardless of gender, sexual preference, age, national origin, educational background, or other differentiating characteristic.
 
-Please note that only persons aged 18 or over will be given access to the induction zone.
+All users of the Induction Zone infrastructure are requested to follow the same principles of diversity, equality, and inclusion when using the Induction Zone infrastructure.
+
+Please note that only persons aged 18 or over will be given access to the Induction Zone.
 
 ## Reporting activities that go against the code of conduct
-We encourage anyone who feels that they have experienced behaviour that goes against this code of conduct during an Induction Zone event, or during their use of induction zone infrastructure, or during any other activity related to the Induction Zone, to contact induction.zone@enviconnect.de with a detailed description of what happened.
+We encourage anyone who feels that they have experienced behaviour that goes against this code of conduct during an Induction Zone event, or during their use of Induction Zone infrastructure, or during any other activity related to the Induction Zone, to contact induction.zone@enviconnect.de with a detailed description of what happened.
 
 ### How we will deal with activities that go against the code of conduct
 If we observe activities that go against this code of conduct, or have such reported to us, we will take steps to stop them. These steps may include, but is not limited to:
@@ -56,16 +58,16 @@ Unless otherwise agreed, you retain full ownership of your intellectual property
 ## How we use your data
 
 ### Slack
-By joining the induction zone slack channel you agree to:
+By joining the Induction Zone slack channel you agree:
 
 - to have high-level analytics about your use of the slack channel made available to the administrators of the slack channel, who are appointed by the operators. These adminstrators do not have access to private messages. For more details see https://slack.com/help/articles/360047512554-Use-channel-management-tools. 
 - to have your profile be visible to other users of the slack channel
 - to receive email (including marketing) from the operators to the email address you used to sign up for the slack channel. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing induction.zone@enviconnect.de.
 
 ### Messaging
-By messaging us through email, LinkedIn or other third-party messaging services you agree to:
+By messaging us through email, LinkedIn or other third-party messaging services you agree:
 
-- receive email (including marketing) from the operators to the email address you used to contact us. In the event that you use a direct messaging service (e.g., LinkedIn), we may use email addresses that are publically available in your profile. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing induction.zone@enviconnect.de.
+- to receive email (including marketing) from the operators to the email address you used to contact us. In the event that you use a direct messaging service (e.g., LinkedIn), we may use email addresses that are publically available in your profile. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing induction.zone@enviconnect.de.
 
 ### Data sharing
 We will not share your data with any third party. 
