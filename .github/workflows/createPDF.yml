@@ -10,7 +10,6 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
-            --geometry=a4
             -V geometry:papersize=a4
             --output=readme.md
             policies.pdf
