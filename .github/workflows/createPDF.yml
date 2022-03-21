@@ -11,5 +11,5 @@ jobs:
           args: >-  # allows you to break string into multiple lines
             --standalone
             -V geometry:papersize=a4
-            --output=readme.md
-            policies.pdf
+            --output=policies.pdf
+            readme.md
