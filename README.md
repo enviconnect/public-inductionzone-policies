@@ -20,7 +20,8 @@ This policy applies to people using our digital infrastructure, including:
 
 - slack channel (inductionzone.slack.com)
 - online file storage
-- messaging or contact by email, through LinkedIn, or other third-party messaging services.
+- messaging or contact by email, through LinkedIn, or other messaging services.
+- email marketing tools
 
 ## Scope of the Induction Zone
 The Induction Zone supports individuals, startups, and established companies to find, develop, and deploy technologies to support the generation of electricity from renewable energy sources, particularly wind energy.
@@ -65,12 +66,19 @@ By joining the Induction Zone slack channel you agree:
 - to receive email (including marketing) from the operators to the email address you used to sign up for the slack channel. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing induction.zone@enviconnect.de.
 
 ### Messaging
-By messaging us through email, LinkedIn or other third-party messaging services you agree:
+By messaging us through email, LinkedIn or other messaging services you agree:
 
 - to receive email (including marketing) from the operators to the email address you used to contact us. In the event that you use a direct messaging service (e.g., LinkedIn), we may use email addresses that are publically available in your profile. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing induction.zone@enviconnect.de.
 
-### Data sharing
-We will not share your data with any third party. 
+### Email Marketing
+We may offer you opportunities to subscribe to a newsletter or register for a mailing list. 
+
+By registering or subscribing you agree to receive emails from us that we think are relevant to you.
+
+These services will be provided by a third party and by subscribing or registering you will be agreeing to their terms and conditions. These services allow you to unsubscribe at will.
+
+## Data sharing
+We will not share your data with any third party.
 
 ## Updates
 This policy is subject to revision without notice. The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
