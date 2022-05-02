@@ -16,7 +16,6 @@ geometry:
 - right=25mm
 hyperrefoptions:
 - linktoc=all
-fontfamily: raleway
 toc-depth: 1
 ---
 
