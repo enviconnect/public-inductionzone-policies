@@ -20,10 +20,23 @@ geometry:
 
 This document contains the policies for using the Induction Zone's digital infrastructure. It is provided as a GitHub repository to allow tracking.
 
-## Check for updates
-The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
+## Applicability
+These policies applies to people using our digital infrastructure, including:
 
-# Operators
+- slack channel ([inductionzone.slack.com](inductionzone.slack.com))
+- online file storage
+- messaging or contact by email, through LinkedIn, or other messaging services.
+- email marketing tools
+
+## Check for updates
+Please check that you are using the most recent __released__ version of this document. This can be obtained at https://github.com/enviconnect/public-inductionzone-policies/releases.
+
+# About the Induction Zone
+
+## Scope of the Induction Zone
+The Induction Zone supports individuals, startups, and established companies to find, develop, and deploy technologies to support the generation of electricity from renewable energy sources, particularly wind energy.
+
+## Operators
 The Induction Zone is operated by:
 
 TGU enviConnect<br>
@@ -36,16 +49,6 @@ Germany
 
 Contact us at [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de).
 
-# Applicability
-This policy applies to people using our digital infrastructure, including:
-
-- slack channel ([inductionzone.slack.com](inductionzone.slack.com))
-- online file storage
-- messaging or contact by email, through LinkedIn, or other messaging services.
-- email marketing tools
-
-# Scope of the Induction Zone
-The Induction Zone supports individuals, startups, and established companies to find, develop, and deploy technologies to support the generation of electricity from renewable energy sources, particularly wind energy.
 
 # Code of Conduct
 The Induction Zone is a place for people to exchange news, views, ideas, and experience and appear authentically (i.e., speak in a way that is aligned with their own beliefs and experience and not need to present a facade). We encourage all users of our infrastructure to respect this and support each other. 
@@ -104,7 +107,7 @@ These services will be provided by a third party and by subscribing or registeri
 # Data sharing
 We will not share your data with any third party.
 
-# Updates
+# Update policy
 This policy is subject to revision without notice. The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
 
 # Feedback
