@@ -9,11 +9,15 @@ subject:
 lang: en-GB
 documentclass: article
 pagestyle: headings
-fontsize: 11pt
+fontsize: 10pt
 papersize: a4
 geometry:
 - left=25mm
 - right=25mm
+hyperrefoptions:
+- linktoc=all
+fontfamily: raleway
+toc-depth:1
 ---
 
 # About this document
