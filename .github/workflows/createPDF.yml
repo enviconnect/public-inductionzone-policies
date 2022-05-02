@@ -10,6 +10,10 @@ jobs:
       - name: create policies directory
         run: |
           mkdir policies
+          
+      - name: install fonts
+        run: |
+          tlmgr install raleway
 
       - uses: docker://pandoc/latex      
         with:
