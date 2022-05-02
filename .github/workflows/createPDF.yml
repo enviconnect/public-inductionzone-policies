@@ -13,3 +13,7 @@ jobs:
             --standalone
             --output=policies.pdf
             README.md
+      - uses: actions/upload-artifact@v1
+        with:
+          name: docs
+          path: pdfs
