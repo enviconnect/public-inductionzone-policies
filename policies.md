@@ -7,6 +7,9 @@ subject:
 - policies
 - Induction Zone
 lang: en-GB
+documentclass: article
+pagestyle: headings
+fontsize: 11pt
 ---
 
 # Policies for the use of the Induction Zone digital infrastructure
