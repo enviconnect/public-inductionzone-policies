@@ -11,11 +11,6 @@ jobs:
         run: |
           mkdir policies
           
-      - name: install fonts
-        run: |
-          sudo apt update
-          sudo apt install texlive-fonts-extra
-
       - uses: docker://pandoc/latex      
         with:
           args: >-  # allows you to break string into multiple lines
