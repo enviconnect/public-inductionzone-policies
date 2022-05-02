@@ -1,19 +1,26 @@
 name: Create PDF
 
-on: push
+on: 
+  - push
+  - workflow_dispatch
 
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: docker://pandoc/latex
+      - name: create output directory
+        run: |
+          mkdir output
+
+    - uses: docker://pandoc/latex      
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
             --output=policies.pdf
             README.md
+            
       - uses: actions/upload-artifact@v1
         with:
-          name: docs
-          path: pdfs
+          name: output
+          path: output
