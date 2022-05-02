@@ -14,10 +14,17 @@ jobs:
       - uses: docker://pandoc/latex      
         with:
           args: >-  # allows you to break string into multiple lines
-            --output=policies/policies.pdf
+            --output=policies.pdf
             README.md
             
       - uses: actions/upload-artifact@master
         with:
           name: policies
-          path: policies
+          path: .
+
+      - name: Commit PDF
+        run: |
+          git config --global user.name 'Andy Clifton'
+          git config --global user.email 'andyclifton@users.noreply.github.com'
+          git commit -am "Automated PDF"
+          git push
