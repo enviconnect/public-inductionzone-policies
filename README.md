@@ -1,10 +1,9 @@
 ---
 title: "Policies for the use of the Induction Zone digital infrastructure"
-author
+author:
 - Andy Clifton
-subtitle
--
-subject
+subtitle:
+subject:
 - policies
 - Induction Zone
 lang: en-GB
