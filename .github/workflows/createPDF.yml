@@ -16,7 +16,7 @@ jobs:
           args: >-  # allows you to break string into multiple lines
             --template=templates/default.latex
             --output=policies.pdf
-            README.md
+            policies.md
             
       - uses: actions/upload-artifact@master
         with:
