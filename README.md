@@ -1,3 +1,15 @@
+---
+title: "Policies for the use of the Induction Zone digital infrastructure"
+author
+- Andy Clifton
+subtitle
+-
+subject
+- policies
+- Induction Zone
+lang: en-GB
+---
+
 # Policies for the use of the Induction Zone digital infrastructure
 
 The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
