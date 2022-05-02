@@ -10,6 +10,10 @@ lang: en-GB
 documentclass: article
 pagestyle: headings
 fontsize: 11pt
+papersize: a4
+geometry:
+- left=25mm
+- right=25mm
 ---
 
 # About this document
