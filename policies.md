@@ -30,12 +30,12 @@ Germany
 
 (henceforth refered to as "we", "us", "our", "the operators", or "Induction Zone").
 
-Contact us at induction.zone@enviconnect.de.
+Contact us at [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de).
 
 # Applicability
 This policy applies to people using our digital infrastructure, including:
 
-- slack channel (inductionzone.slack.com)
+- slack channel ([inductionzone.slack.com](inductionzone.slack.com))
 - online file storage
 - messaging or contact by email, through LinkedIn, or other messaging services.
 - email marketing tools
@@ -78,14 +78,17 @@ Unless otherwise agreed, you retain full ownership of your intellectual property
 ## Slack
 By joining the Induction Zone slack channel you agree:
 
-- to have high-level analytics about your use of the slack channel made available to the administrators of the slack channel, who are appointed by the operators. These adminstrators do not have access to private messages. For more details see https://slack.com/help/articles/360047512554-Use-channel-management-tools. 
+- to have high-level analytics about your use of the slack channel made available to the administrators of the slack channel, who are appointed by the operators. These adminstrators do not have access to private messages. For more details see [this article on slack.com](https://slack.com/help/articles/360047512554-Use-channel-management-tools). 
 - to have your profile be visible to other users of the slack channel
-- to receive email (including marketing) from the operators to the email address you used to sign up for the slack channel. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing induction.zone@enviconnect.de.
+- to receive email (including marketing) from the operators to the email address you used to sign up for the slack channel. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de).
 
 ## Messaging
-By messaging us through email, LinkedIn or other messaging services you agree:
+By messaging us through email or other messaging services you agree:
 
-- to receive email (including marketing) from the operators to the email address you used to contact us. In the event that you use a direct messaging service (e.g., LinkedIn), we may use email addresses that are publically available in your profile. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing induction.zone@enviconnect.de.
+- to receive email (including marketing) from the operators to the email address you used to contact us. 
+- In the event that you use a direct messaging service (e.g., LinkedIn), we may use email addresses that are publically available in your profile. These emails may be sent through third-party tools. 
+ 
+You have the right to unsubscribe from such services directly or by emailing [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de).
 
 ## Email Marketing
 We may offer you opportunities to subscribe to a newsletter or register for a mailing list. 
@@ -101,4 +104,4 @@ We will not share your data with any third party.
 This policy is subject to revision without notice. The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
 
 # Feedback
-We value your feedback. Please contact induction.zone@enviconnect.de with any feedback you want to share.
+We value your feedback. Please contact [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de) with any feedback you want to share.
