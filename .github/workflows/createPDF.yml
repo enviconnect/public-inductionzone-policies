@@ -1,8 +1,6 @@
 name: Create PDF
 
-on: 
-  - push
-  - workflow_dispatch
+on: [push, workflow_dispatch ]
 
 jobs:
   convert_via_pandoc:
