@@ -26,5 +26,6 @@ jobs:
         run: |
           git config --global user.name 'Andy Clifton'
           git config --global user.email 'andyclifton@users.noreply.github.com'
+          git add --all
           git commit -am "Automated PDF"
           git push
