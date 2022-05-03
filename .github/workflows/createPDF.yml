@@ -11,15 +11,22 @@ jobs:
         run: |
           mkdir policies
           
-      - uses: docker://pandoc/latex      
+      - name: Convert Markdown to Latex
+        uses: docker://pandoc/latex      
         with:
           args: >-  # allows you to break string into multiple lines
             --template=templates/default.latex
             --number-sections
             --toc
-            --output=policies.pdf
+            --to=latex
+            --output=policies.tex
             policies.md
-            
+      
+      - name: Compile LaTeX document
+        uses: dante-ev/latex-action@latest
+        with:
+          root_file: policies.tex
+      
       - uses: actions/upload-artifact@master
         with:
           name: policies
