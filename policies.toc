@@ -1,0 +1,20 @@
+\babel@toc {british}{}\relax 
+\contentsline {section}{\numberline {1}About this document}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Applicability}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Check for updates}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}About the Induction Zone}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Scope of the Induction Zone}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Operators}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Code of Conduct}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Diversity, equality, and inclusion (DEI)}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Reporting activities that go against the code of conduct}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}How we will deal with activities that go against the code of conduct}{2}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}If you feel that \emph {we} have gone against this code of conduct}{3}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Your intellectual property}{3}{section.4}%
+\contentsline {section}{\numberline {5}How we use your data}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Slack}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Messaging}{3}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Email Marketing}{3}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Data sharing}{4}{section.6}%
+\contentsline {section}{\numberline {7}Update policy}{4}{section.7}%
+\contentsline {section}{\numberline {8}Feedback}{4}{section.8}%
