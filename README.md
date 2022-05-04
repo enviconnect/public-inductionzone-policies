@@ -9,8 +9,10 @@ Launched in early 2022, the Induction Zone is a community for startups, entrepre
 
 More information about the Induction Zone can be obtained by contacting [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de).
 
-## Which version of the policies are current?
-The most up-to-date version of the policies is the most recent release in https://github.com/enviconnect/public-inductionzone-policies/releases.
+## What are the policies?
+The policies can be found in https://github.com/enviconnect/public-inductionzone-policies/blob/main/policies.pdf
+
+Older versions of the policies are archived in https://github.com/enviconnect/public-inductionzone-policies/releases.
 
 ## For more information
 Please contact [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de).
