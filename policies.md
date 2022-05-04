@@ -32,7 +32,9 @@ These policies applies to people using our digital infrastructure, including:
 - email marketing tools
 
 ## Check for updates
-Please check that you are using the most recent __released__ version of this document. This can be obtained at https://github.com/enviconnect/public-inductionzone-policies/releases.
+Please check that you are using the most recent version of this document. This can be obtained at https://github.com/enviconnect/public-inductionzone-policies/blob/main/policies.pdf.
+
+Archived versions can be found at https://github.com/enviconnect/public-inductionzone-policies/releases.
 
 # About the Induction Zone
 
@@ -111,7 +113,7 @@ These services will be provided by a third party and by subscribing or registeri
 We will not share your data with any third party.
 
 # Update policy
-This policy is subject to revision without notice. The current version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
+This policy is subject to revision without notice. The definitive version of this policy is the most recent release at https://github.com/enviconnect/public-inductionzone-policies/releases.
 
 # Feedback
 We value your feedback. Please contact [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de) with any feedback you want to share.
