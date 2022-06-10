@@ -93,6 +93,7 @@ By joining the Induction Zone slack channel you agree:
 - to have high-level analytics about your use of the slack channel made available to the administrators of the slack channel, who are appointed by the operators. These adminstrators do not have access to private messages. For more details see [this article on slack.com](https://slack.com/help/articles/360047512554-Use-channel-management-tools). 
 - to have your profile be visible to other users of the slack channel
 - to receive email (including marketing) from the operators to the email address you used to sign up for the slack channel. These emails may be sent through third-party tools. You have the right to unsubscribe from such services directly or by emailing [induction.zone@enviconnect.de](mailto:induction.zone@enviconnect.de).
+- to be added to our mailing list.
 
 ## Messaging
 By messaging us through email or other messaging services you agree:
@@ -108,6 +109,9 @@ We may offer you opportunities to subscribe to a newsletter or register for a ma
 By registering or subscribing you agree to receive emails from us that we think are relevant to you.
 
 These services will be provided by a third party and by subscribing or registering you will be agreeing to their terms and conditions. These services allow you to unsubscribe at will.
+
+## Data pipelines
+We use [Zapier](https://www.zapier.com) to synchronize data across our services, in line with this policy. Check out their data policy, [here](https://zapier.com/help/account/data-management/data-privacy-at-zapier). They act as a data processor on our behalf and we remain the data controllers.
 
 # Data sharing
 We will not share your data with any third party.
